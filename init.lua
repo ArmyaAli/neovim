@@ -3,8 +3,6 @@ require("color")
 require("keymap")
 require("remap")
 
--- Bootstrap lazy.nvim package manager
-
 -- BEGIN
 local plugins = {
   -- do not remove the colorscheme!
