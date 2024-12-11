@@ -22,6 +22,9 @@ vim.opt.incsearch = true;
 -- This will avoid an annoying layout shift in the screen
 vim.opt.signcolumn = 'yes'
 
+-- set my shell to powershell
+vim.o.shell = "powershell.exe"
+
 
 ----------
 -- REMAP --
